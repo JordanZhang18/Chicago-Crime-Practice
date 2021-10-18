@@ -10,4 +10,6 @@ Use Geospatial queries to provide descriptive stat for every district on Choropl
 
 
 Use Geospatial queries to locate the Block that is the furthest (Maximum Distance) from the police station that has gun related crime resulted in arrest.
+
+
 ![Alt text](/map.png)
