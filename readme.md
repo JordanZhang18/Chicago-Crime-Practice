@@ -9,5 +9,6 @@ Use Geospatial queries to locate police stations and gun related crimes (with ar
 Use Geospatial queries to provide descriptive stat for every district on Choropleth map
 
 
-Use Geospatial queries to locate the Block that is the furthest (Maximum Distance) from the police station that has gun related crime resulted in arrest
-map.png
+Use Geospatial queries to locate the Block that is the furthest (Maximum Distance) from the police station that has gun related crime resulted in arrest.
+
+/map.png
